@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[An heroical song] on the worthy and valiant exploits of our noble lord general George Duke of Albemarle, &amp;c. both by land and sea. Made in August, 1666. To the tune of St. George.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03641</idno>
+            <idno type="STC">Wing H1593</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[101]</idno>
+            <idno type="EEBO-CITATION">99885208</idno>
+            <idno type="PROQUEST">ocm99885208</idno>
+            <idno type="VID">182585</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182585)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[101])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[An heroical song] on the worthy and valiant exploits of our noble lord general George Duke of Albemarle, &amp;c. both by land and sea. Made in August, 1666. To the tune of St. George.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid for John Playford at his shop in the Temple.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "King Arthur and his men they valiant were and bold, the Table Round was high renown'd, twelve hardy knights did hold; all in the ..."</note>
+                  <note>At end of text: Licens'd according to Order.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Poetry --  Early works to 1800.</term>
+               <term>Songs, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182585:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>An Heroical SONG On the Worthy and Valiant Exploits of our Noble Lord General GEORGE Duke of ALBEMARLE, &amp;c. Both by LAND and SEA.</head>
+            <head type="sub">Made in <date>
+                  <hi>Auguſt,</hi> 1666.</date>
+            </head>
+            <opener>To the Tune of St. <hi>George.</hi>
+            </opener>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <seg rend="decorInit">K</seg>Ing <hi>Arthur</hi> and his Men they valiant were and bold, the Table Round was high renown'd, twelve hardy Knights did hold; all in the <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>dayes of old extoll'd for Chivalrie: but they long ſince are dead, and under ground do lie, to keep up <hi>England</hi>'s Fame, our preſent Story <hi>Chorus.</hi> 
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>tells, How Lord <hi>George,</hi> Lord <hi>George,</hi> in proweſs now excells. <hi>Lord</hi> George <hi>was born in</hi> England, <hi>reſtor'd his Countryes Joy, come let us ſing</hi> Vive le Roy. <hi>Chorus.</hi> 
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>Lord</hi> George <hi>was born in</hi> England, <hi>reſtor'd his Countryes Joy, come let us ſing</hi> Vive le Roy.</p>
+            <lg>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Monarchies,</hi> all four, were purchaſed with blood;</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arthage</hi> of old, and <hi>Rome</hi> as bold, each other long withſtood;</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd many Lives were loſt in every enterprize.</l>
+               <l>
+                  <hi>Orlando Furioſo,</hi> he was more raſh than wiſe:</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut never heard before, ſo well contriv'd a thing,</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow Lord <hi>George,</hi> Lord <hi>George,</hi> in Peace brought home our King.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord</hi> George <hi>was born in</hi> England,</l>
+                  <l>
+                     <hi>Reſtor'd his Countryes Joy,</hi>
+                  </l>
+                  <l>
+                     <hi>Come let us ſing</hi> Vive le Roy.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>French Mounſieur</hi> Complements his Cracks and Cringes many;</l>
+               <l>The <hi>Spaniſh Don</hi> his Hat keeps on, and looks as big as any;</l>
+               <l>The <hi>Iriſh Tory</hi> fierce; <hi>Venetians</hi> Courage Hot;</l>
+               <l>The <hi>Welſhman</hi> ſtill high born; moſt ſubtle is the <hi>Scot:</hi>
+               </l>
+               <l>But yet among them all, deny it now who can,</l>
+               <l>Still Lord <hi>George,</hi> Lord <hi>George</hi> Renowned <hi>Engliſh-man.</hi>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord</hi> George, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Darby</hi> and <hi>Capel</hi> both did Noble Martyrs die,</l>
+               <l>Their lateſt breath, unto the Death, pronouncing Loyaltie;</l>
+               <l>Good Subjects many more, did ſuffer Deaths moſt vile;</l>
+               <l>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Scotland</hi> brave <hi>Montroſs</hi> was murdered by <hi>Argyle:</hi>
+               </l>
+               <l>For King and Countries ſake, all thoſe laid down their Lives;</l>
+               <l>But Lord <hi>George,</hi> Lord <hi>George,</hi> to ſerve his Prince ſurvives.</l>
+               <lg type="refrain">
+                  <l>Lord <hi>George,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Brave famous Noblemen, and others here did fight</l>
+               <l>For <hi>Charles</hi> His Cauſe, when 'gainſt the Lawes detained was His right:</l>
+               <l>In thoſe unhappy Wars, dy'd many Worthies good,</l>
+               <l>Did win Immortal Fame by Loſing Loyal blood:</l>
+               <l>Yet maugre all their Force, Uſurpers got the Throne;</l>
+               <l>But Lord <hi>George,</hi> Lord <hi>George,</hi> He gave the King his own.</l>
+               <lg type="refrain">
+                  <l>Lord <hi>George,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>By many Battles fought, the <hi>Turk</hi>'s a Potent Lord;</l>
+               <l>King <hi>Philips</hi> Son of <hi>Macedon,</hi> got all the World by's Sword;</l>
+               <l>Great <hi>William</hi> 'gain'd this Land, and all the <hi>Danes</hi> drave out;</l>
+               <l>Fifth <hi>Harry</hi> Conquer'd <hi>France,</hi> by force and valour ſtout:</l>
+               <l>Their Greatneſs to Encreaſe, theſe exercis'd their might;</l>
+               <l>But Lord <hi>George,</hi> Lord <hi>George,</hi> doth for his Maſter fight.</l>
+               <lg type="refrain">
+                  <l>Lord <hi>George,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jephtha</hi> and <hi>Gideon</hi> by Miracle did ſtrike;</l>
+               <l>The Son of <hi>Nun</hi> did ſtay the Sun, no Man did do the like;</l>
+               <l>
+                  <hi>Sampſon</hi> was the ſtrongeſt begot of humane race;</l>
+               <l>
+                  <hi>Jonathan</hi> and <hi>David</hi> kill'd <hi>Philiſtins</hi> apace:</l>
+               <l>All thoſe did fight on Land, their Foes when ſlaughter'd they;</l>
+               <l>But Lord <hi>George,</hi> Lord <hi>George</hi> rides Conquerour at Sea.</l>
+               <lg type="refrain">
+                  <l>Lord <hi>George,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Of many brave Exploits do ancient Stories tell,</l>
+               <l>But Sea-fights ſuch as ours with <hi>Dutch,</hi> yet none could parallel:</l>
+               <l>Towards <hi>Midſummer</hi> the Moon works ſtrongly on their brain,</l>
+               <l>If in the Month of <hi>June</hi> they venture once again;</l>
+               <l>For thrice they had the worſt at that time of the year,</l>
+               <l>And Lord <hi>George,</hi> Lord <hi>George</hi> ſtill keeps them all in fear.</l>
+               <lg type="refrain">
+                  <l>Lord <hi>George,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>We often read of Knights, Wilde Beaſts did overcome;</l>
+               <l>Our General, beyond them all, beats <hi>Belgick Lyon</hi> home;</l>
+               <l>A Beaſt of wondrous Size, ſometime did hold him play,</l>
+               <l>But he the Conqueſt gain'd, upon St. <hi>James</hi>'s day:</l>
+               <l>The <hi>Lyon</hi> then was hurt, did lamentably rore,</l>
+               <l>But Lord <hi>George,</hi> Lord <hi>George</hi> ſince that did wound it more.</l>
+               <lg type="refrain">
+                  <l>Lord <hi>George,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Victory obtain'd, was further ſtill made good,</l>
+               <l>Our <hi>Engliſhmen,</hi> unto their Den, the <hi>Dutchmen</hi> home purſu'd:</l>
+               <l>Their <hi>Fleet</hi> in Harbour fir'd, their Village ſack'd and burn'd,</l>
+               <l>Made <hi>Butterboxes</hi> ſwear the <hi>Monck</hi> to Devil was turn'd;</l>
+               <l>As flam'd the <hi>Trojan</hi> Walls, ſo did their Ships or worſe,</l>
+               <l>For Lord <hi>George,</hi> Lord <hi>George</hi> ſent in the Wooden-horſe.</l>
+               <lg type="refrain">
+                  <l>Lord <hi>George,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If daring <hi>Frenchmen</hi> now our Valour longs to try,</l>
+               <l>Soon as he will, we ready ſtill, his Mind to ſatisfie:</l>
+               <l>His Itch ſhall quickly Cure, when he ſhall feel our Sword</l>
+               <l>With <hi>Dutch</hi> not blunted yet, we'l t'other Bout afford;</l>
+               <l>And if he thinks it good, the <hi>Dane</hi> may likewiſe call,</l>
+               <l>For Lord <hi>George,</hi> Lord <hi>George</hi> doth hope to beat them all.</l>
+               <lg type="refrain">
+                  <l>Lord <hi>George,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Succeſs wait on his Arm, till Tryumph bring him home</l>
+               <l>To Native Soil, enrich'd with Spoil of Enemies o're-come:</l>
+               <l>Whilſt they by <hi>Weeping-Croſs</hi> are driven back again,</l>
+               <l>May he with Joy return to his Dear Soveraign;</l>
+               <l>And in his proper Orb, with Honour ſtill attend,</l>
+               <l>Till Lord <hi>George,</hi> Lord <hi>George</hi> 'mong Angels ſhall aſcend.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Lord</hi> George <hi>was born in</hi> England,</l>
+                  <l>
+                     <hi>Reſtor'd his Countryes Joy,</hi>
+                  </l>
+                  <l>
+                     <hi>Come let us end</hi> Vive le Roy.</l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>[Licens'd according to Order.]</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>W. Godbid</hi> for <hi>John Playford</hi> at his Shop in the <hi>Temple.</hi> 1667.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
